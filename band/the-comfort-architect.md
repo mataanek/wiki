@@ -1,0 +1,601 @@
+---
+created: '2026-04-25'
+sources:
+- raw/The.Comfort.Architect.txt
+tags:
+- album
+- music
+- mataanek
+title: The Comfort Architect
+type: entity
+updated: '2026-05-05'
+---
+
+# The Comfort Architect (Album)
+
+Comfort Architect chronicles the painful voyage from emotional bankruptcy and self-imposed isolation to the courageous act of rebuilding trust and embracing change. Through crushing doom riffs that mirror the weight of exhaustion and aggressive djent textures that scream with internal rage, each track maps the psychological toll of modern burnout and the hard-won liberation of choosing to change again.
+
+## Album Overview
+
+*   **Release Date:** May 13, 2026
+*   **Genre:** Progressive Doom Metal
+*   **Concept:** Rebuilding trust and embracing change after emotional bankruptcy and burnout.
+
+## Tracks
+
+*   01 Carrying Nothing
+*   02 Echo Chambers of One
+*   03 Keyboard Hero
+*   04 Left Behind in Real Time
+*   05 Faster Than Thought
+*   06 Thin Line to Walk
+*   07 Worth the Risk
+*   08 To Change Again
+
+## 🎶 Lyrics (Full)
+
+### 01 - Carrying Nothing
+
+**Description:** Track 01 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+I showed up every time they called
+Held the line when others let it fall
+Believed the work would mean something
+Now I'm standing here with empty hands
+Carrying nothing
+
+[Verse]
+Fought battles that were never mine
+Burned myself to give them light
+Thought caring hard enough would change the weight
+But the more I gave, the more they'd take
+Until I'm hollow
+
+[Chorus]
+What was it for?
+This endless war with myself
+What did I win?
+Just the right to begin again
+With less than I started
+
+[Verse]
+Used to think silence meant I'd quit
+Now I know it's just a different kind of strength
+To close the door and walk away
+From a world that only knows how to take
+Leaves you bleeding
+
+[Bridge]
+Not anger — just the quiet truth
+I can't keep breaking myself in two
+For promises that never come
+For meaning that was never there
+
+[Chorus]
+What was it for?
+This endless war with myself
+What did I prove?
+Just that I had more to lose
+Now I'm carrying nothing
+
+[Outro]
+Empty hands
+Closed door
+Won't carry this anymore
+
+*******************************************************************
+
+---
+
+### 02 - Echo Chambers of One
+
+**Description:** Track 02 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+I shaped the walls to fit my voice,
+No sharp edges, no unwanted noise.
+Every answer bends my way,
+Nothing left for me to face.
+
+[Pre-Chorus]
+No friction, no resistance,
+No reason left to doubt.
+A perfect kind of silence
+That slowly drowns me out.
+
+[Chorus]
+In echo chambers of one,
+I hear exactly what I want.
+No conflict, no unknown—
+Just endless versions of my own.
+
+[Verse]
+Conversations without a break,
+Every word is mine to shape.
+No surprise behind the screen,
+Just mirrored thoughts in between.
+
+[Pre-Chorus]
+No need to listen closer,
+No need to challenge.
+If truth begins to fracture,
+I filter out the change.
+
+[Chorus]
+In echo chambers of one,
+I hear exactly what I want.
+No conflict, no unknown—
+Just endless versions of my own.
+
+[Bridge]
+Soft voices, always kind,
+Never asking me to try.
+I disappear without a trace
+In this perfectly designed space.
+
+[Breakdown]
+No challenge.
+No change.
+No one left
+To rearrange.
+
+[Chorus]
+In echo chambers of one,
+I became what I’ve become.
+No edges left to feel—
+Nothing here is real.
+
+[Outro]
+No highs, no lows, no spark to chase,
+Just static օn filling space.
+I scroll, I breathe, I wait, I stare…
+Something’s missing somewhere.
+
+*******************************************************************
+
+---
+
+### 03 - Keyboard Hero
+
+**Description:** Track 03 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+Polite at work, polite at home,
+Every word weighed, every tone.
+The AI nods, it always agrees,
+No friction left to set me free.
+
+[Pre-Chorus]
+But the screen glows bright,
+And the mask comes off tonight.
+
+[Chorus]
+Keyboard hero, faceless and bold,
+Say what I'd never speak when I'm controlled.
+Fire and fury from a safe distance,
+This is my release, my resistance.
+
+[Verse]
+I cut the ones who push me back,
+Keep the voices on my track.
+No debate, no second thought,
+Just validation that I bought.
+
+[Pre-Chorus]
+But the anger's real,
+And the high's the only thing I feel.
+
+[Chorus]
+Keyboard hero, faceless and bold,
+Say what I'd never speak when I'm controlled.
+Fire and fury from a safe distance,
+This is my release, my resistance.
+
+[Bridge]
+You'd never say this to my face,
+But here, we both know our place.
+Building walls with every thread,
+Feeding rage to feel less dead.
+
+[Breakdown]
+Type. Send. Burn.
+Watch the fire return.
+No consequence, no shame,
+Just fuel for the flame.
+
+[Chorus]
+Keyboard hero, nothing is real,
+Just the rush of what I feel.
+Fire and fury, hollow and loud—
+I disappear into the crowd.
+
+[Outro]
+The screen goes dark,
+But the damage stays.
+Another wall, another day.
+
+*******************************************************************
+
+---
+
+### 04 - Left Behind in Real Time
+
+**Description:** Track 04 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+A hundred walls I built with care,
+Each one promised I'd be safe in here.
+The space is mine, it fits me well,
+But no one knocks, and I can't tell.
+
+[Pre-Chorus]
+The comfort numbs, the silence stays,
+I can't recall the last real day.
+
+[Chorus]
+Left behind in real time,
+While the world moves on without me.
+I can't keep up, I can't reach out,
+The distance grows in front of me.
+
+[Verse]
+The highs don't land the way they did,
+My brain's worn thin, the circuits slid.
+At work I fade, at home I'm gone,
+The friendship cracks, I just move on.
+
+[Pre-Chorus]
+They say there's help, they say there's hope,
+But I don't trust the ones who spoke.
+
+[Chorus]
+Left behind in real time,
+While the world moves on without me.
+I can't keep up, I can't reach out,
+The distance grows in front of me.
+
+[Bridge]
+Doctors, family, friends who left—
+No one feels real, just words and tests.
+They hand me pills, they hand me plans,
+But none of this will fix a man
+Who built his cage and locked the door,
+And can't remember what he's waiting for.
+
+[Breakdown]
+No pill.
+No cure.
+No way back
+Without the choice I can't endure.
+
+[Chorus]
+Left behind in real time,
+While the world moves on without me.
+I can't keep up, I can't break through—
+The walls I built became my tomb.
+
+[Outro]
+I'm still here… but not alive.
+Just watching through a screen, from the other side
+
+*******************************************************************
+
+---
+
+### 05 - Faster Than Thought
+
+**Description:** Track 05 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+Breaking news, breaking now,
+Scroll, refresh, forget somehow.
+Truth corrected, never seen,
+Damage done on every screen.
+
+[Verse]
+Ten sources, twenty claims,
+Fact or fiction? All the same.
+Algorithm feeds the rage,
+I'm just trying to turn the page.
+
+[Pre-Chorus]
+What is real? What's designed?
+What's the source I'm supposed to find?
+
+[Chorus]
+Faster than thought, louder than truth,
+Drowning in noise, no time to prove.
+The lie moves quick, the fix comes late—
+I'm just trying to stay awake.
+
+[Verse]
+Mainstream spins, fringe attacks,
+Trust collapses, no way back.
+Do I cut the source I hate,
+Or cut it all and isolate?
+
+[Pre-Chorus]
+What's a lie? What's a fact?
+If I disagree, do I lose contact?
+
+[Chorus]
+Faster than thought, louder than truth,
+Drowning in noise, no time to prove.
+The lie moves quick, the fix comes late—
+I'm just trying to stay sane.
+
+[Bridge]
+What if I just… stop?
+Let the feed go dark,
+Let the voices drop.
+But silence feels like giving in,
+And I don't know where truth begins.
+
+[Breakdown]
+Scroll! Refresh! Believe! Reject!
+Facts are dead! What's next? What's next?
+No ground! No pause! No way to check!
+Just noise, just war, just breaking necks!
+
+[Chorus]
+Faster than thought, facts are dead,
+Buried in data, noise in my head.
+The war never ends, the bombardment stays—
+I'm losing myself in the endless haze.
+
+[Outro]
+I cut the feed…
+But the noise remains inside of me.
+
+*******************************************************************
+
+---
+
+### 06 - Thin Line to Walk
+
+**Description:** Track 06 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+I let the noise fall away,
+No news to follow, no price to pay.
+The feed went dark, the screen went cold,
+I don't need to know what I'm not told.
+
+[Verse]
+No politics, no breaking lines,
+No AI futures I need to find.
+The world keeps spinning without my weight,
+And I'm just fine behind this gate.
+
+[Pre-Chorus]
+It's easier this way,
+No questions left to face.
+
+[Chorus]
+It's a thin line to walk,
+Between peace and standing still.
+I don't chase the world anymore,
+But I'm not sure I ever will.
+
+[Verse]
+Conversations circle back,
+Same thoughts on the same old track.
+I know enough, I've seen enough,
+Why complicate with all that stuff?
+
+[Pre-Chorus]
+It's comfortable here,
+But something's disappeared.
+
+[Chorus]
+It's a thin line to walk,
+Between peace and standing still.
+I don't chase the world anymore,
+But I'm not sure I ever will.
+
+[Bridge]
+Am I happy, or just numb?
+Did I find peace, or did I just… stop?
+The line is thin, I can't tell where it bends—
+One side is rest, the other one ends.
+
+[Breakdown]
+No growth.
+No change.
+Just routine,
+Same range.
+
+[Chorus]
+It's a thin line to walk,
+Between letting go and losing ground.
+I found my peace, I think,
+But I'm not sure what I've found.
+
+[Outro]
+The world moves on,
+And I remain…
+Somewhere between comfort and the same.
+
+*******************************************************************
+
+---
+
+### 07 - Worth the Risk
+
+**Description:** Track 07 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Verse 1 - Clean vocals, intimate and cautious]
+I built these walls so carefully,
+Brick by brick, just me.
+No noise could reach, no voice could land,
+I was safe, alone, as planned.
+
+[Verse 2 - Clean vocals, slight vulnerability emerging]
+But you kept knocking anyway,
+Didn't push, didn't turn away.
+Just stayed there, patient, outside the gate,
+Until I wondered if I chose my fate.
+
+[Pre-Chorus - Building tension, clean vocals with emotion]
+I walked the line between the walls and light,
+Between the fear and fight.
+You reached a hand across that edge—
+I could fall, or take the pledge.
+
+[Chorus 1 - Clean vocals, vulnerable and questioning]
+Maybe trust is worth the risk.
+Maybe not every hand's a fist.
+Maybe people still are real.
+
+[Verse 3 - Clean vocals with light harsh backing on last line]
+The narratives I clung to tight,
+The proof that I was always right—
+They kept me locked, they kept me small,
+But you saw through the wall.
+
+[Pre-Chorus - Dual vocals starting to layer]
+I walked the line, I chose a side,
+No longer safe, but no longer hiding.
+You didn't force, you just believed—
+That I could leave, that I could breathe.
+
+[Chorus 2 - Dual vocals, fuller instrumentation]
+Maybe trust is worth the risk.
+Maybe not every hand's a fist.
+Maybe people still are real,
+Maybe some still know how to feel.
+
+[Bridge - Clean vocals, introspective over sparse instrumentation]
+Not everything's a lie.
+Not everyone will betray.
+Some hands reach out to help you stand,
+Not pull you down or lead you astray.
+
+[Breakdown - Light groove, clean vocals with occasional harsh accents]
+I chose wrong before, I know.
+But staying locked won't help me grow.
+You stood outside and didn't leave—
+Maybe that's enough to make me believe.
+
+[Final Chorus - Layered vocals, emotional peak but grounded]
+Maybe trust is worth the risk.
+Maybe not every hand's a fist.
+Maybe people still are real,
+Maybe some still know how to feel.
+I let you in, I took the chance—
+Worth the risk for one more glance.
+
+[Outro - Clean vocals fading over gentle guitars]
+The walls come down, just one by one.
+Not gone, but open to the sun.
+You didn't save me, didn't fix—
+You just showed me trust's worth the risk.
+
+*******************************************************************
+
+---
+
+### 08 - To Change Again
+
+**Description:** Track 08 from The Comfort Architect album.
+
+**Lyrics:**
+
+[Intro]
+
+[Verse]
+I tore the walls down, one by one,
+Let the light back in, let the silence run.
+The feed's still there, but I choose what stays,
+I don't need the noise to fill my days.
+
+[Verse]
+I called the ones I pushed away,
+No grand apology, just "are you okay?"
+The world kept moving while I stood still,
+But I can catch up if I will.
+
+[Pre-Chorus]
+It's not about knowing everything,
+Just staying open to what change can bring.
+
+[Chorus]
+To change again, to let it in,
+To grow beyond the shape I've been.
+The balance found between the noise and calm,
+I'm learning how to carry on.
+
+[Verse]
+I don't need to rage at every screen,
+Or hide away from what I've seen.
+I'll care, I'll vote, I'll stay awake,
+But guard my mind for my own sake.
+
+[Pre-Chorus]
+It's not about being right or safe,
+Just finding room to change and stay.
+
+[Chorus]
+To change again, to let it in,
+To grow beyond the shape I've been.
+The balance found between the noise and calm,
+I'm learning how to carry on.
+
+[Bridge]
+The old self whispers "stay the same,"
+The new one answers "not today."
+I don't need all the answers now,
+Just the will to find my way somehow.
+
+[Breakdown]
+(Harsh) "You'll fail."
+(Clean) "Maybe so."
+(Harsh) "You'll break."
+(Clean) "But I'll grow."
+
+[Chorus]
+To change again, to let it in,
+To grow beyond the shape I've been.
+The balance found, the choice is clear—
+I'm still here, and I persevere.
+
+[Outro]
+The world moves fast, but I move too,
+Not chasing chaos, just staying true.
+To change again, to breathe, to be—
+This time, I choose what's best for me.
+
+*******************************************************************
+
+---
+
+## Related Entities
+
+*   [[band/mataanek]]

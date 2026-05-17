@@ -1,0 +1,271 @@
+     1|01 - Forest
+     2|[Verse 1: Spring]
+     3|Moss climbs back on thawing stone,
+     4|Birds rip dawn with newborn cries,
+     5|Deer step soft through lifting fog,
+     6|Hooves tap trails in tender light,
+     7|Fox slips out of winter’s hollow,
+     8|We walk in on forest’s hymn.
+     9|
+    10|[Chorus: Spring]
+    11|Forest breathes, alive, unyielding,
+    12|Meadows wake in fevered green,
+    13|Chirps and calls in endless weaving,
+    14|Human spark—too brief, unseen.
+    15|
+    16|[Verse 2: Summer]
+    17|Thrushes stitch the morning open,
+    18|Needle-notes through golden haze,
+    19|Ants drag suns across the footpath,
+    20|Burning trails through bright dead days.
+    21|Fox prints blur in heat-drunk clover,
+    22|We are lost inside life now.
+    23|
+    24|[Chorus: Summer]
+    25|Forest breathes, alive, unyielding,
+    26|Meadows blaze in fevered green,
+    27|Chirps and calls in endless weaving,
+    28|Human spark—too brief, unseen.
+    29|
+    30|[Verse 3: Autumn]
+    31|Leaves fall slow like tired embers,
+    32|Brown and red in spiraled sleep,
+    33|Mushrooms bloom on fallen soldiers,
+    34|Quiet wars in ruptured deep.
+    35|Boar root low through sodden bracken,
+    36|Turning light to flesh and bone.
+    37|
+    38|[Chorus: Autumn]
+    39|Forest breathes, alive, unyielding,
+    40|Meadows fade from burning green,
+    41|Chirps and calls fall into echo,
+    42|Human spark—too brief, unseen.
+    43|
+    44|[Verse 4: Winter]
+    45|Branches write on empty sky-lines,
+    46|Black on grey, no chorus left,
+    47|Deer move pale through frost-bit hollows,
+    48|Careful ghosts in powdered breath.
+    49|Wolf-song threads the frozen distance,
+    50|We are dust under its roots.
+    51|
+    52|[Chorus: Winter]
+    53|Forest breathes, alive, yet sleeping,
+    54|Meadows dream of buried green,
+    55|Chirps and calls are distant memory,
+    56|Human spark—too brief, unseen.
+    57|
+    58|[Outro]
+    59|Under snow, the seeds are listening,
+    60|Green will rise from patient cold.
+    61|Forest breathes… alive, unyielding…
+    62|Circle turns again.
+    63|
+    64|
+    65|02 - River
+    66|
+    67|[Intro]
+    68|
+    69|[Verse 1 – Spring Creek]
+    70|Snow gives up on mountain shoulders,
+    71|Drips collect in muddy ruts,
+    72|Rain drums hymns on rusted rooftops,
+    73|Feeds the seams in forest cuts.
+    74|Frog eggs pulse in shallow puddles,
+    75|Water learns to walk and sing.
+    76|
+    77|[Chorus – Spring]
+    78|Drops descend, from sky to hillside,
+    79|Every thread will find a river,
+    80|Every river seeks the sea.
+    81|
+    82|[Verse 2 – Summer River]
+    83|Sun beats down on open gravel,
+    84|River swells to claim the shore,
+    85|Dragonflies dart low over ripples,
+    86|Trout flash silver in the flanks.
+    87|Crayfish crawl where shadows linger,
+    88|Current pulls the day downstream.
+    89|
+    90|[Chorus – Summer]
+    91|Storm descends, through valley currents,
+    92|Every thread will find a river,
+    93|Every river seeks the sea.
+    94|
+    95|[Verse 3 – Autumn Lake]
+    96|Mist sits low on quiet backwaters,
+    97|Cattails rot in leaning rows,
+    98|Leaves lie drowned along the margins,
+    99|Brown rings mark where summer goes.
+   100|Heron stalks the weedy shallows,
+   101|Light above grows slow and dim.
+   102|
+   103|[Chorus – Autumn]
+   104|Rain returns, to quiet waters,
+   105|Every thread will find a river,
+   106|Every river seeks the sea.
+   107|
+   108|[Verse 4 - Winter Ice]
+   109|Ice locks down the stony shallows,
+   110|River hums in muffled tones,
+   111|Snow lies soft on dead reed cages,
+   112|Tracks of fox and bird and bones.
+   113|Duck dives under frozen edges,
+   114|Current waits for spring’s release.
+   115|
+   116|[Chorus – Winter]
+   117|Snowflakes descend, through ice and shadow,
+   118|Every thread will find a river,
+   119|Every river seeks the sea.
+   120|
+   121|[Outro]
+   122|River seeks the sea… alive, forever flowing…
+   123|Circle turns again.
+   124|
+   125|
+   126|04 - Fields
+   127|[Verse 1 – Spring Blooming Meadows]
+   128|Frost retreats from meadow grasses,
+   129|Hare bounds free through blooming streams,
+   130|Wildflowers burst in morning colors,
+   131|Verdure stirs in sunlit dreams.
+   132|Roots entwine the fertile earth now,
+   133|Waters dance where petals gleam,
+   134|Fields unfold as seasons whisper,
+   135|Hare alive in verdant dream.
+   136|
+   137|[Chorus 1 – Spring]
+   138|Fields will sway, through storm and season,
+   139|Nurtured deep, they spawn new growth,
+   140|Every blade sways wild forever,
+   141|Fields become the cradle of life.
+   142|
+   143|[Verse 2 – Summer Golden Harvest]
+   144|Sun ignites the waving grasses,
+   145|Corncrake calls where rivers bend,
+   146|Grain stands tall in golden fire,
+   147|Heat that sears the land's own skin.
+   148|Winds that sweep the boundless acres,
+   149|Stalks that sway but never yield,
+   150|Fields defy the summer's blaze now,
+   151|Corncrake hides in ripened field.
+   152|
+   153|[Chorus 2 – Summer]
+   154|Fields will sway, through storm and season,
+   155|Nurtured deep, they cradle life,
+   156|Every blade sways wild forever,
+   157|These fields renew when rains do call.
+   158|
+   159|[Chorus 2 – River Floods]
+   160|Fields will sway, through storm and season,
+   161|Nurtured deep, they cradle life,
+   162|Every blade sways wild forever,
+   163|These fields renew when rains do call.
+   164|
+   165|[Verse 3 – Autumn Wind-Swept Plains]
+   166|Rain sweeps wide o'er barren pastures,
+   167|Wind-sculpted waves in ceaseless roll,
+   168|Fallen leaves paint ochre canvas,
+   169|Clouds that race to seize their toll.
+   170|Deer migrates on shadowed trails now,
+   171|Antlers catch the waning ray,
+   172|Plains that scorn the spent abundance,
+   173|Watch the colors bleach away.
+   174|
+   175|[Chorus 3 – Autumn]
+   176|Fields will sway, through storm and season,
+   177|Nurtured deep, they cradle life,
+   178|Every blade sways wild forever,
+   179|These fields give life to us all.
+   180|
+   181|[Chorus 3 – Harvest]
+   182|Fields will sway, through storm and season,
+   183|Nurtured deep, they cradle life,
+   184|Every blade sways wild forever,
+   185|These fields give life to us all.
+   186|
+   187|[Verse 4 – Winter Frosted Steppe]
+   188|Snow entombs the silent meadows,
+   189|Roebuck stands through blizzard's bite,
+   190|Frostbite gnaws the withered stubble,
+   191|Gales that rend the frozen night.
+   192|Folds conceal a hoarded promise,
+   193|Stars ignite through spectral veil,
+   194|Fields abide in quiet vigil,
+   195|Roebuck guards the steadfast trail.
+   196|
+   197|[Final Chorus – Winter]
+   198|Fields will sway, through storm and season,
+   199|Nurtured deep, they cradle life,
+   200|Every blade sways wild forever,
+   201|These fields await the spring's recall.
+   202|
+   203|
+   204|[Final Chorus – Snow Drifts]
+   205|Fields will sway, through storm and season,
+   206|Nurtured deep, they cradle life,
+   207|Every blade sways wild forever,
+   208|These fields await the spring's recall.
+   209|
+   210|
+   211|05 - Ocean
+   212|[Verse 1 – Spring Coastal Shallows]
+   213|Ice dissolves in turquoise shallows,
+   214|Seal basks sleek on sun-warmed tides,
+   215|Coral blooms in tidal shallows,
+   216|Kelp sways soft in birthing waters,
+   217|Oceans wake as equinox calls,
+   218|Seal at play in shallows gold.
+   219|
+   220|[Chorus 1 – Spring - Gentle Swells]
+   221|Oceans surge, through eons boundless,
+   222|Depths that dream, they birth the tide,
+   223|Every wave rolls fierce forever,
+   224|These seas embrace the endless ride.
+   225|
+   226|[Verse 2 – Summer Open Depths]
+   227|Sun shafts pierce the azure layers,
+   228|Tuna streaks through pressure's grip,
+   229|Phytoplankton fuels the feeders,
+   230|Thermoclines divide the dancers,
+   231|Oceans pulse beneath the sun glare,
+   232|Tuna hunts the fading day.
+   233|
+   234|[Chorus 2 – Summer - Warm Currents]
+   235|Oceans surge, through eons boundless,
+   236|Depths that dream, they birth the tide,
+   237|Every wave rolls fierce forever,
+   238|These seas renew where warmth unite.
+   239|
+   240|[Verse 3 – Autumn Surface Gales]
+   241|Gusts lash foam across vast surfaces,
+   242|Albatross glides locked-step seas,
+   243|Phytoplankton fades in tempests,
+   244|Gyre spirals pull the wanderers,
+   245|Oceans rage in autumn's fury,
+   246|Albatross defies the death.
+   247|
+   248|[Chorus 3 – Autumn - Gale Winds]
+   249|Oceans surge, through eons boundless,
+   250|Depths that dream, they birth the tide,
+   251|Every wave rolls fierce forever,
+   252|These seas endure the storm's full might.
+   253|
+   254|[Verse 4 – Winter Abyssal Trenches]
+   255|Glaciers calve to midnight canyons,
+   256|Orca hunts through biolum glow,
+   257|Pressure crushes light-forsaken realms,
+   258|Oceans brood in polar silence,
+   259|Pods that echo ancient calls,
+   260|Orca reigns the trench floor.
+   261|
+   262|[Final Chorus – Winter - Polar Tides]
+   263|Oceans surge, through eons boundless,
+   264|Depths that dream, they birth the tide,
+   265|Every wave rolls fierce forever,
+   266|These seas rebirth what came before.
+   267|
+   268|
+   269|[Outro – Circle Closure]
+   270|Ice dissolves in turquoise shallows...
+   271|Circle turns again.

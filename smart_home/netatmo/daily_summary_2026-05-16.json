@@ -1,0 +1,268 @@
+[
+  {
+    "timestamp": "2026-05-16T18:35:17.478937+00:00",
+    "time": "18:35:17",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.5,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1006.1,
+      "Weather_Station_Byt_co2_ppm": 788,
+      "Weather_Station_Byt_noise_db": 65,
+      "Weather_Station_Byt_last_updated_utc": 1778956189,
+      "Outdoor_Module_Byt_temperature_c": 12.9,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778956145,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.7,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 636,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778956177
+    }
+  },
+  {
+    "timestamp": "2026-05-16T18:36:46.020126+00:00",
+    "time": "18:36:46",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.5,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1006.1,
+      "Weather_Station_Byt_co2_ppm": 788,
+      "Weather_Station_Byt_noise_db": 65,
+      "Weather_Station_Byt_last_updated_utc": 1778956189,
+      "Outdoor_Module_Byt_temperature_c": 12.9,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778956145,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.7,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 636,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778956177
+    }
+  },
+  {
+    "timestamp": "2026-05-16T18:52:00.360329+00:00",
+    "time": "18:52:00",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.8,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1006.3,
+      "Weather_Station_Byt_co2_ppm": 859,
+      "Weather_Station_Byt_noise_db": 57,
+      "Weather_Station_Byt_last_updated_utc": 1778957402,
+      "Outdoor_Module_Byt_temperature_c": 12.7,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778957375,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.8,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 813,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778957356
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:01:56.809565+00:00",
+    "time": "19:01:56",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.9,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1006.6,
+      "Weather_Station_Byt_co2_ppm": 906,
+      "Weather_Station_Byt_noise_db": 66,
+      "Weather_Station_Byt_last_updated_utc": 1778958008,
+      "Outdoor_Module_Byt_temperature_c": 12.6,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778957991,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.8,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 864,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778957971
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:06:32.040346+00:00",
+    "time": "19:06:32",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.9,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1006.6,
+      "Weather_Station_Byt_co2_ppm": 906,
+      "Weather_Station_Byt_noise_db": 66,
+      "Weather_Station_Byt_last_updated_utc": 1778958008,
+      "Outdoor_Module_Byt_temperature_c": 12.6,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778957991,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.8,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 864,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778957971
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:11:49.171889+00:00",
+    "time": "19:11:49",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1006.8,
+      "Weather_Station_Byt_co2_ppm": 944,
+      "Weather_Station_Byt_noise_db": 61,
+      "Weather_Station_Byt_last_updated_utc": 1778958614,
+      "Outdoor_Module_Byt_temperature_c": 12.5,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778958606,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.8,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 860,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778958587
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:23:34.181190+00:00",
+    "time": "19:23:34",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23.1,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1007,
+      "Weather_Station_Byt_co2_ppm": 1018,
+      "Weather_Station_Byt_noise_db": 52,
+      "Weather_Station_Byt_last_updated_utc": 1778959221,
+      "Outdoor_Module_Byt_temperature_c": 12.4,
+      "Outdoor_Module_Byt_humidity_percent": 68,
+      "Outdoor_Module_Byt_last_updated_utc": 1778959221,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 891,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778959202
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:31:20.390776+00:00",
+    "time": "19:31:20",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23.1,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1007.2,
+      "Weather_Station_Byt_co2_ppm": 999,
+      "Weather_Station_Byt_noise_db": 62,
+      "Weather_Station_Byt_last_updated_utc": 1778959827,
+      "Outdoor_Module_Byt_temperature_c": 12.4,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778959785,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 925,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778959817
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:36:46.748330+00:00",
+    "time": "19:36:46",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23.1,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1007.2,
+      "Weather_Station_Byt_co2_ppm": 999,
+      "Weather_Station_Byt_noise_db": 62,
+      "Weather_Station_Byt_last_updated_utc": 1778959827,
+      "Outdoor_Module_Byt_temperature_c": 12.4,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778959785,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 925,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778959817
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:42:28.436205+00:00",
+    "time": "19:42:28",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23,
+      "Weather_Station_Byt_humidity_percent": 44,
+      "Weather_Station_Byt_pressure_hpa": 1007.3,
+      "Weather_Station_Byt_co2_ppm": 964,
+      "Weather_Station_Byt_noise_db": 54,
+      "Weather_Station_Byt_last_updated_utc": 1778960434,
+      "Outdoor_Module_Byt_temperature_c": 12.4,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778960400,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 953,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778960432
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:46:21.659605+00:00",
+    "time": "19:46:21",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23,
+      "Weather_Station_Byt_humidity_percent": 44,
+      "Weather_Station_Byt_pressure_hpa": 1007.3,
+      "Weather_Station_Byt_co2_ppm": 964,
+      "Weather_Station_Byt_noise_db": 54,
+      "Weather_Station_Byt_last_updated_utc": 1778960434,
+      "Outdoor_Module_Byt_temperature_c": 12.4,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778960400,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 953,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778960432
+    }
+  },
+  {
+    "timestamp": "2026-05-16T19:52:39.295131+00:00",
+    "time": "19:52:39",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1007.5,
+      "Weather_Station_Byt_co2_ppm": 1011,
+      "Weather_Station_Byt_noise_db": 55,
+      "Weather_Station_Byt_last_updated_utc": 1778961040,
+      "Outdoor_Module_Byt_temperature_c": 12.3,
+      "Outdoor_Module_Byt_humidity_percent": 69,
+      "Outdoor_Module_Byt_last_updated_utc": 1778961015,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 953,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778960996
+    }
+  },
+  {
+    "timestamp": "2026-05-16T22:08:20.195200+00:00",
+    "time": "22:08:20",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.9,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1008.7,
+      "Weather_Station_Byt_co2_ppm": 1049,
+      "Weather_Station_Byt_noise_db": 34,
+      "Weather_Station_Byt_last_updated_utc": 1778968925,
+      "Outdoor_Module_Byt_temperature_c": 12,
+      "Outdoor_Module_Byt_humidity_percent": 71,
+      "Outdoor_Module_Byt_last_updated_utc": 1778968911,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.7,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 1166,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778968892
+    }
+  },
+  {
+    "timestamp": "2026-05-16T22:08:43.267735+00:00",
+    "time": "22:08:43",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.9,
+      "Weather_Station_Byt_humidity_percent": 45,
+      "Weather_Station_Byt_pressure_hpa": 1008.7,
+      "Weather_Station_Byt_co2_ppm": 1049,
+      "Weather_Station_Byt_noise_db": 34,
+      "Weather_Station_Byt_last_updated_utc": 1778968925,
+      "Outdoor_Module_Byt_temperature_c": 12,
+      "Outdoor_Module_Byt_humidity_percent": 71,
+      "Outdoor_Module_Byt_last_updated_utc": 1778968911,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.7,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 50,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 1166,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1778968892
+    }
+  }
+]

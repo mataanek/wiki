@@ -1,0 +1,5 @@
+timestamp,station_name,module_name,temperature,humidity,pressure,CO2,noise
+2026-05-16T19:20:22.725208Z,House (Weather Station living room),Outdoor Module,,,,,
+2026-05-16T19:20:22.725220Z,House (Weather Station living room),Study Smart Module,,,,,
+2026-05-16T19:20:22.725224Z,Byt (Weather Station Byt),Outdoor Module Byt,,,,,
+2026-05-16T19:20:22.725227Z,Byt (Weather Station Byt),Smart Indoor Module Loznice,,,,,
