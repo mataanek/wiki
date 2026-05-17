@@ -17,5 +17,24 @@
       "Smart_Indoor_Module_Loznice_co2_ppm": 710,
       "Smart_Indoor_Module_Loznice_last_updated_utc": 1779011959
     }
+  },
+  {
+    "timestamp": "2026-05-17T16:08:00.587586+00:00",
+    "time": "16:08:00",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.1,
+      "Weather_Station_Byt_humidity_percent": 39,
+      "Weather_Station_Byt_pressure_hpa": 1012.7,
+      "Weather_Station_Byt_co2_ppm": 525,
+      "Weather_Station_Byt_noise_db": 35,
+      "Weather_Station_Byt_last_updated_utc": 1779033824,
+      "Outdoor_Module_Byt_temperature_c": 17.7,
+      "Outdoor_Module_Byt_humidity_percent": 48,
+      "Outdoor_Module_Byt_last_updated_utc": 1779033820,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 44,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 450,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1779033801
+    }
   }
 ]
