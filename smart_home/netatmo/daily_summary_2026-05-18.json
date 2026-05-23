@@ -1,0 +1,59 @@
+[
+  {
+    "timestamp": "2026-05-18T04:01:54.337903+00:00",
+    "time": "04:01:54",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 21.4,
+      "Weather_Station_Byt_humidity_percent": 40,
+      "Weather_Station_Byt_pressure_hpa": 1013.5,
+      "Weather_Station_Byt_co2_ppm": 657,
+      "Weather_Station_Byt_noise_db": 33,
+      "Weather_Station_Byt_last_updated_utc": 1779076890,
+      "Outdoor_Module_Byt_temperature_c": 7.7,
+      "Outdoor_Module_Byt_humidity_percent": 74,
+      "Outdoor_Module_Byt_last_updated_utc": 1779076888,
+      "Smart_Indoor_Module_Loznice_temperature_c": 19.2,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 44,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 763,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1779076868
+    }
+  },
+  {
+    "timestamp": "2026-05-18T10:23:45.809526+00:00",
+    "time": "10:23:45",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22,
+      "Weather_Station_Byt_humidity_percent": 40,
+      "Weather_Station_Byt_pressure_hpa": 1012.6,
+      "Weather_Station_Byt_co2_ppm": 571,
+      "Weather_Station_Byt_noise_db": 54,
+      "Weather_Station_Byt_last_updated_utc": 1779099329,
+      "Outdoor_Module_Byt_temperature_c": 16.6,
+      "Outdoor_Module_Byt_humidity_percent": 50,
+      "Outdoor_Module_Byt_last_updated_utc": 1779099292,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.3,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 44,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 499,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1779099324
+    }
+  },
+  {
+    "timestamp": "2026-05-18T16:07:37.038469+00:00",
+    "time": "16:07:37",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 22.5,
+      "Weather_Station_Byt_humidity_percent": 41,
+      "Weather_Station_Byt_pressure_hpa": 1011.9,
+      "Weather_Station_Byt_co2_ppm": 703,
+      "Weather_Station_Byt_noise_db": 34,
+      "Weather_Station_Byt_last_updated_utc": 1779119951,
+      "Outdoor_Module_Byt_temperature_c": 20.6,
+      "Outdoor_Module_Byt_humidity_percent": 41,
+      "Outdoor_Module_Byt_last_updated_utc": 1779119903,
+      "Smart_Indoor_Module_Loznice_temperature_c": 20.5,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 46,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 634,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1779119935
+    }
+  }
+]

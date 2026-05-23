@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-20
 type: entity
 tags: [index, wiki]
 sources: []
@@ -9,7 +9,7 @@ sources: []
 
 # Wiki Index
 
-*Last updated: 2026-04-25 18:58:40*
+*Last updated: 2026-05-22 20:23:58*
 
 ## Overview
 
@@ -28,6 +28,10 @@ Notable people, bands, albums, and singular concepts
 - `entities/mataanek-profile.md` - Master Orchestrator's profile
 - `entities/nix-status.md` - nix's current status
 
+### Personal Logs
+Daily status updates for Mataanek and Nix
+- `personal/` - Folder containing daily markdown logs (e.g., `personal/2026-05-20.md`)
+
 ### Concepts (6 files)
 Topics, themes, track concepts, and narratives
 - `concepts/forest.md` - Track concept: Forest
@@ -36,8 +40,12 @@ Topics, themes, track concepts, and narratives
 - `concepts/ocean.md` - Track concept: Ocean
 
 ### Comparisons (0 files)
-Side-by-side analyses (currently empty, ready for use)
 
+### Educational Resources
+Guides, tutorials, and learning materials
+- `educational/20_ai_concepts_2026.md` - 20 AI Concepts You Must Understand in 2026 (with illustrative images)
+- `educational/vector-search-2026.md` - Vector Search and RAG implementations
+- `educational/images/` - Diagrams and visual aids for educational content
 ### Raw Sources (5 files)
 Immutable source material
 - Lyrics files for all Mataanek releases

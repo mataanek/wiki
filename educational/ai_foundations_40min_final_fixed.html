@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Foundations: 20 Concepts in 40 Minutes</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #f8f9fa;
+        }
+        h1, h2, h3 {
+            color: #1a252f;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #3498db, #2c3e50);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .slide-container {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            margin: 30px 0;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            border-top: 5px solid #3498db;
+            min-height: 500px;
+            display: flex;
+            flex-direction: column;
+        }
+        .image-wrapper {
+            flex: 0 0 220px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 20px auto;
+            border-radius: 10px;
+            overflow: hidden;
+            border: 2px solid #ecf0f1;
+        }
+        .image-wrapper img {
+            max-width: 100%;
+            max-height: 200px;
+            object-fit: contain;
+        }
+        .concept-number {
+            font-size: 4em;
+            font-weight: bold;
+            color: #ecf0f1;
+            background: #3498db;
+            width: 1.4em;
+            height: 1.4em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+        }
+        .concept-title {
+            font-size: 2.2em;
+            margin: 10px 0;
+            color: #1a252f;
+        }
+        .concept-explanation {
+            font-size: 1.3em;
+            line-height: 1.6;
+            color: #34495e;
+            margin: 20px 0;
+            min-height: 80px;
+        }
+        .knowledge-check {
+            background: #e8f8f5;
+            border: 3px solid #1abc9c;
+            border-radius: 12px;
+            padding: 30px;
+            margin: 30px 0;
+            text-align: center;
+            flex-shrink: 0;
+        }
+        .knowledge-check h2 {
+            margin-top: 0;
+            color: #1a252f;
+        }
+        .instruction {
+            display: block;
+            margin: 20px 0;
+            color: #7f8c8d;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+        #question {
+            font-size: 1.8em;
+            margin: 20px 0;
+            min-height: 50px;
+            color: #1a252f;
+        }
+        #answer {
+            font-size: 2.2em;
+            font-weight: bold;
+            color: #1a252f;
+            margin: 25px 0;
+            min-height: 60px;
+            letter-spacing: 1px;
+        }
+        .hidden {
+            visibility: hidden;
+        }
+        .reward {
+            background: #fff9e6;
+            border: 2px dashed #f39c12;
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+            text-align: center;
+            display: none;
+        }
+        .reward h3 {
+            color: #d4ac0d;
+            margin-top: 0;
+        }
+        .progress {
+            text-align: center;
+            margin-top: 20px;
+            color: #95a5a6;
+            font-size: 1.1em;
+        }
+        .controls {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .controls button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            margin: 0 10px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: background 0.3s;
+        }
+        .controls button:hover {
+            background: #2c3e50;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+            color: #95a5a6;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress" id="progress">Intro</div>
+    
+    <h1>AI Foundations</h1>
+    <div class="subtitle">20 Essential Concepts in 40 Minutes</div>
+
+    <!-- INTRO SLIDE -->
+    <div class="slide-container">
+        <div class="concept-number" id="conceptNum">0</div>
+        <div class="concept-title" id="conceptTitle">Welcome to AI Foundations</div>
+        <div class="image-wrapper" id="imageWrapper">
+            <img id="slideImage" src="images/HI5-xP8aIAAL0YM.jpg" alt="Neural network visualization - foundation of modern AI">
+        </div>
+        <div class="concept-explanation" id="conceptExplanation">
+            This presentation covers the 20 essential AI concepts that form the bedrock of modern artificial intelligence. Master these ideas to understand how AI works, how it improves, and how to use it effectively.
+        </div>
+        <div class="knowledge-check">
+            <h2>Knowledge Check</h2>
+            <p class="instruction">Press SPACE to reveal the answer</p>
+            <div id="question">What is the main goal of this AI Foundations presentation?</div>
+            <div id="answer" class="hidden">To teach the 20 essential AI concepts from Rahul's thread</div>
+        </div>
+        <div class="reward" id="reward">
+            <h3>✓ Correct!</h3>
+            <p>Let's dive into the first concept: Neural Networks.</p>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button id="prevBtn" onclick="previousConcept()" disabled>← Previous</button>
+        <button id="nextBtn" onclick="nextConcept()">Next →</button>
+    </div>
+
+    <div class="footer">
+        Use LEFT/RIGHT arrows or click buttons to navigate<br>
+        Press SPACE to reveal answer during knowledge check<br>
+        Suggested pace: ~2 minutes per concept (40 minutes total for 20 lessons)
+    </div>
+
+    <script>
+        // Define all 20 concepts with their correct images
+        const concepts = [
+            // Concept 1: Neural Networks
+            {
+                num: 1,
+                title: "Neural Networks",
+                explanation: "A neural network consists of interconnected layers: input, one or more hidden layers, and output. Each connection between neurons has a weight that determines signal strength. During training, these weights are adjusted to minimize error, allowing the network to learn patterns from data.",
+                image: "HI5-xP8aIAAL0YM.jpg",
+                question: "What do we call the adjustable parameters that determine the strength of connections between neurons in a neural network?",
+                answer: "Weights"
+            },
+            // Concept 2: Tokenization
+            {
+                num: 2,
+                title: "Tokenization",
+                explanation: "Tokenization breaks text into smaller units called tokens, which can be words, subwords, or characters. This process allows models to handle vocabulary of arbitrary size, including rare words and typos, by representing them as combinations of known tokens. Common algorithms include Byte Pair Encoding (BPE) and WordPiece.",
+                image: "HI58qtEbUAAyrSy.jpg",
+                question: "What is the process of splitting text into smaller units called tokens?",
+                answer: "Tokenization"
+            },
+            // Concept 3: Embeddings
+            {
+                num: 3,
+                title: "Embeddings",
+                explanation: "Each token is mapped to a dense vector called an embedding, which captures its semantic meaning. Similar tokens (like 'king' and 'queen') have vectors that are close together in the embedding space, enabling the model to understand relationships. These vectors are learned during training and serve as the network's internal representation of language.",
+                image: "HI59HOVbkAA2OOE.jpg",
+                question: "What converts tokens into numerical vectors that capture semantic meaning?",
+                answer: "Embeddings"
+            },
+            // Concept 4: Attention
+            {
+                num: 4,
+                title: "Attention",
+                explanation: "Attention mechanism allows the model to weigh the importance of different tokens when processing each token. Instead of treating all words equally, it focuses on relevant parts of the input, much like how humans pay attention to key words in a sentence. This enables better understanding of context and long-range dependencies.",
+                image: "HI59_uXa0AAxbxR.jpg",
+                question: "What mechanism allows words to weigh the importance of other words in a sentence?",
+                answer: "Attention"
+            },
+            // Concept 5: Transformers
+            {
+                num: 5,
+                title: "Transformers",
+                explanation: "Transformers are architectures built entirely on attention mechanisms, removing the need for recurrence or convolution. They process all tokens in parallel, making training much faster and enabling scaling to massive sizes. The stack of self-attention layers allows the model to build complex representations of language.",
+                image: "HI5-xP8aIAAL0YM.jpg",
+                question: "What architecture uses attention layers and powers models like GPT, Claude, and Gemini?",
+                answer: "Transformers"
+            },
+            // Concept 6: Large Language Models (LLMs)
+            {
+                num: 6,
+                title: "Large Language Models (LLMs)",
+                explanation: "LLMs are transformer models trained on enormous text datasets (often trillions of tokens) to predict the next token. Through this next-token prediction task, they acquire emergent abilities like reasoning, coding, and translation without explicit training for those skills. Their performance improves predictably with more data, parameters, and compute.",
+                image: "HI59_uXa0AAxbxR.jpg",
+                question: "What are transformer models trained on massive text datasets called?",
+                answer: "Large Language Models (LLMs)"
+            },
+            // Concept 7: Context Window
+            {
+                num: 7,
+                title: "Context Window",
+                explanation: "The context window is the maximum number of tokens a model can process at once, consisting of the input text plus the model's generated response. A larger window allows the model to consider more information, but due to positional bias, the beginning and end of the window are often weighted more heavily than the middle. Managing this limitation is key for applications requiring long-form understanding.",
+                image: "6-3Y5xyR_normal.jpg",
+                question: "What is the maximum number of tokens a model can process at once called?",
+                answer: "Context Window"
+            },
+            // Concept 8: Temperature
+            {
+                num: 8,
+                title: "Temperature",
+                explanation: "Temperature is a parameter that controls the randomness of token selection during generation. Lower temperatures (near 0) make the model deterministic and focused, while higher temperatures increase randomness and creativity. Setting temperature too high can produce incoherent output, while too low makes it repetitive and lacking in surprise.",
+                image: "HI59HOVbkAA2OOE.jpg",
+                question: "What parameter controls the randomness of AI's word choices?",
+                answer: "Temperature"
+            },
+            // Concept 9: Hallucination
+            {
+                num: 9,
+                title: "Hallucination",
+                explanation: "Hallucination occurs when an AI generates false or fabricated information with high confidence, because it is optimized for plausible-sounding text rather than factual accuracy. Since language models predict the next token based on patterns, they can invent details, citations, or events that never existed. Mitigation strategies include retrieval-augmented generation and fact-checking.",
+                image: "HI59HOVbkAA2OOE.jpg",
+                question: "What is it called when AI confidently states false information?",
+                answer: "Hallucination"
+            },
+            // Concept 10: Prompt Engineering
+            {
+                num: 10,
+                title: "Prompt Engineering",
+                explanation: "Prompt engineering is the practice of crafting inputs to guide AI models toward desired outputs. Effective prompts provide clear context, specify the desired format, assign a role, and include examples when needed. Small changes in phrasing can dramatically affect the quality and relevance of the model's response, making this a crucial skill for getting useful results.",
+                image: "6-3Y5xyR_normal.jpg",
+                question: "What is the practice of crafting effective inputs to steer AI responses?",
+                answer: "Prompt Engineering"
+            },
+            // Concept 11: Transfer Learning
+            {
+                num: 11,
+                title: "Transfer Learning",
+                explanation: "Transfer learning takes a model pretrained on a large, general dataset and adapts it to a specific task with much less data and computation. Instead of training from scratch, we leverage the general features learned by the pretrained model, which often results in better performance, especially when data for the target task is limited. This approach has democratized access to powerful AI capabilities.",
+                image: "HI5-xP8aIAAL0YM.jpg",
+                question: "What is adapting a pretrained model to a new task called?",
+                answer: "Transfer Learning"
+            },
+            // Concept 12: Fine-Tuning
+            {
+                num: 12,
+                title: "Fine-Tuning",
+                explanation: "Fine-tuning continues training a pretrained model on a smaller, task-specific dataset to adjust its weights for the new domain. While the pretrained model provides a strong starting point, fine-tuning tailors its knowledge to the specific nuances of the target application. Care must be taken to avoid overfitting to the small dataset through techniques like regularization and early stopping.",
+                image: "HI58qtEbUAAyrSy.jpg",
+                question: "What is training a pretrained model on a small dataset for a specific domain?",
+                answer: "Fine-Tuning"
+            },
+            // Concept 13: Quantization
+            {
+                num: 13,
+                title: "Quantization",
+                explanation: "Quantization reduces the numerical precision of a model's weights (e.g., from 32-bit floating point to 8-bit integers) to decrease model size and increase inference speed. This compression allows large models to run on consumer hardware like smartphones and laptops with minimal loss in accuracy. Techniques like quantization-aware training help mitigate any potential degradation.",
+                image: "HI59HOVbkAA2OOE.jpg",
+                question: "What technique reduces model size by decreasing numerical precision?",
+                answer: "Quantization"
+            },
+            // Concept 14: LoRA (Low-Rank Adaptation)
+            {
+                num: 14,
+                title: "LoRA (Low-Rank Adaptation)",
+                explanation: "LoRA freezes the pretrained model's weights and trains only small, low-rank matrices that modify the behavior of the original weights. This approach drastically reduces the number of trainable parameters, making adaptation efficient and allowing many different task-specific adapters to share the same base model. The adapters are lightweight and can be swapped quickly.",
+                image: "HI59_uXa0AAxbxR.jpg",
+                question: "What technique trains only small matrices to adapt large models?",
+                answer: "LoRA (Low-Rank Adaptation)"
+            },
+            // Concept 15: RLHF (Reinforcement Learning from Human Feedback)
+            {
+                num: 15,
+                title: "RLHF (Reinforcement Learning from Human Feedback)",
+                explanation: "RLHF uses human feedback to train a reward model that scores model outputs based on desired qualities like helpfulness and harmlessness. The language model is then optimized via reinforcement learning to maximize rewards from this model, aligning its behavior with human preferences. This process is key to making AI assistants safe and useful in practice.",
+                image: "6-3Y5xyR_normal.jpg",
+                question: "What method uses human feedback to align AI with desired behavior?",
+                answer: "RLHF (Reinforcement Learning from Human Feedback)"
+            },
+            // Concept 16: RAG (Retrieval-Augmented Generation)
+            {
+                num: 16,
+                title: "RAG (Retrieval-Augmented Generation)",
+                explanation: "RAG combines a retrieval system with a generative model: first, relevant documents are fetched from a knowledge base based on the input query; then, those documents are provided as context to the language model to generate a response. This grounds the model's output in verifiable facts, reducing hallucination and enabling up-to-date knowledge without retraining.",
+                image: "HI5-xP8aIAAL0YM.jpg",
+                question: "What technique combines retrieval with generation to ground AI in facts?",
+                answer: "RAG (Retrieval-Augmented Generation)"
+            },
+            // Concept 17: Speculative Decoding
+            {
+                num: 17,
+                title: "Speculative Decoding",
+                explanation: "Speculative decoding uses a small, fast 'draft' model to predict several tokens in advance, which are then verified in parallel by the larger target model. If the draft tokens are correct, they are accepted; otherwise, the target model corrects them. This technique can significantly speed up generation while preserving the output quality of the large model.",
+                image: "HI58qtEbUAAyrSy.jpg",
+                question: "What technique uses a small model to draft tokens for faster generation?",
+                answer: "Speculative Decoding"
+            },
+            // Concept 18: Mixture-of-Experts (MoE)
+            {
+                num: 18,
+                title: "Mixture-of-Experts (MoE)",
+                explanation: "Instead of a single monolithic network, a Mixture-of-Experts model contains many specialized sub-networks (experts), and a gating network routes each token to the most relevant experts. This architecture allows massive scaling of total parameters while keeping computation per token constant, as only a subset of experts is activated for each input. It enables efficient training of extremely large models.",
+                image: "HI59HOVbkAA2OOE.jpg",
+                question: "What architecture uses specialized sub-networks routed by token?",
+                answer: "Mixture-of-Experts (MoE)"
+            },
+            // Concept 19: KV Caching
+            {
+                num: 19,
+                title: "KV Caching",
+                explanation: "During autoregressive generation, the model computes key and value vectors for each token based on previous tokens. KV caching stores these computed vectors so they can be reused in subsequent steps, avoiding redundant calculations. This optimization is essential for making generation fast, especially in models with long context windows.",
+                image: "HI59_uXa0AAxbxR.jpg",
+                question: "What stores past key/value vectors to speed up autoregressive generation?",
+                answer: "KV Caching"
+            },
+            // Concept 20: Model Merging
+            {
+                num: 20,
+                title: "Model Merging",
+                explanation: "Model merging combines the weights of multiple fine-tuned models into a single model without additional training, creating a multi-capable system. Techniques include averaging weights, task arithmetic, or more sophisticated methods like Fisher merging. This allows deployment of one model that can handle multiple tasks (e.g., language understanding and reasoning) rather than maintaining separate models for each.",
+                image: "6-3Y5xyR_normal.jpg",
+                question: "What combines multiple fine-tuned models into one?",
+                answer: "Model Merging"
+            }
+        ];
+
+        let currentIndex = 0;
+
+        function loadConcept(index) {
+            if (index < 0 || index >= concepts.length) return;
+            
+            const concept = concepts[index];
+            document.getElementById('conceptNum').textContent = concept.num;
+            document.getElementById('conceptTitle').textContent = concept.title;
+            document.getElementById('conceptExplanation').textContent = concept.explanation;
+            document.getElementById('slideImage').src = 'images/' + concept.image;
+            document.getElementById('slideImage').alt = concept.title + ' visualization';
+            document.getElementById('question').textContent = concept.question;
+            document.getElementById('answer').textContent = concept.answer;
+            
+            // Hide answer and reward initially
+            document.getElementById('answer').classList.add('hidden');
+            document.getElementById('reward').style.display = 'none';
+            
+            // Update progress
+            document.getElementById('progress').textContent = `Concept ${concept.num} of 20`;
+            
+            // Update button states
+            document.getElementById('prevBtn').disabled = (index === 0);
+            document.getElementById('nextBtn').disabled = (index === concepts.length - 1);
+        }
+
+        function nextConcept() {
+            if (currentIndex < concepts.length - 1) {
+                currentIndex++;
+                loadConcept(currentIndex);
+            }
+        }
+
+        function previousConcept() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                loadConcept(currentIndex);
+            }
+        }
+
+        // Keyboard controls
+        document.addEventListener('keydown', function(e) {
+            if (e.code === 'ArrowRight') {
+                nextConcept();
+            } else if (e.code === 'ArrowLeft') {
+                previousConcept();
+            } else if (e.code === 'Space') {
+                e.preventDefault(); // prevent scrolling
+                const answerDiv = document.getElementById('answer');
+                answerDiv.classList.remove('hidden');
+                const rewardDiv = document.getElementById('reward');
+                rewardDiv.style.display = 'block';
+            }
+        });
+
+        // Load first concept (index 0)
+        loadConcept(0);
+    </script>
+</body>
+</html>

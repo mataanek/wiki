@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Foundations: 20 Concepts in 40 Minutes</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #f8f9fa;
+        }
+        h1, h2, h3 {
+            color: #1a252f;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #3498db, #2c3e50);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+            margin-bottom: 40px;
+        }
+        .concept-container {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            margin: 30px 0;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            border-top: 5px solid #3498db;
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .concept-number {
+            font-size: 5em;
+            font-weight: bold;
+            color: #ecf0f1;
+            background: #3498db;
+            width: 1.2em;
+            height: 1.2em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+        }
+        .concept-title {
+            font-size: 2.2em;
+            margin: 20px 0;
+            color: #1a252f;
+        }
+        .concept-explanation {
+            font-size: 1.4em;
+            line-height: 1.6;
+            color: #34495e;
+            margin: 25px 0;
+            min-height: 60px;
+        }
+        .visual-analogy {
+            text-align: center;
+            margin: 25px 0;
+            font-size: 1.2em;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        .knowledge-check {
+            background: #e8f8f5;
+            border: 3px solid #1abc9c;
+            border-radius: 12px;
+            padding: 30px;
+            margin: 25px 0;
+            text-align: center;
+        }
+        .knowledge-check h2 {
+            margin-top: 0;
+            color: #1a252f;
+        }
+        .instruction {
+            display: block;
+            margin: 20px 0;
+            color: #7f8c8d;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+        #question {
+            font-size: 1.8em;
+            margin: 20px 0;
+            min-height: 50px;
+            color: #1a252f;
+        }
+        #answer {
+            font-size: 2.2em;
+            font-weight: bold;
+            color: #1a252f;
+            margin: 25px 0;
+            min-height: 60px;
+            letter-spacing: 1px;
+        }
+        .hidden {
+            visibility: hidden;
+        }
+        .reward {
+            background: #fff9e6;
+            border: 2px dashed #f39c12;
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+            text-align: center;
+            display: none;
+        }
+        .reward h3 {
+            color: #d4ac0d;
+            margin-top: 0;
+        }
+        .progress {
+            text-align: center;
+            margin-top: 30px;
+            color: #95a5a6;
+            font-size: 1.1em;
+        }
+        .controls {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .controls button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            margin: 0 10px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: background 0.3s;
+        }
+        .controls button:hover {
+            background: #2c3e50;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+            color: #95a5a6;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress" id="progress">Concept 1 of 20</div>
+    
+    <h1>AI Foundations</h1>
+    <div class="subtitle">20 Essential Concepts in 40 Minutes</div>
+    <div class="subtitle">Based on Rahul (@sairahul1) X thread, May 22 2026</div>
+
+    <div class="concept-container">
+        <div class="concept-number" id="conceptNum">1</div>
+        <div class="concept-title" id="conceptTitle">Neural Networks</div>
+        <div class="concept-explanation" id="conceptExplanation">
+            A pipeline of layers (input → hidden → output) where each connection has a trainable weight. Adjusting billions of weights makes the network accurate.
+        </div>
+        <div class="visual-analogy" id="visualAnalogy">
+            Like specialists on an assembly line - each layer processes and passes information to the next.
+        </div>
+        <div class="knowledge-check">
+            <h2>Knowledge Check</h2>
+            <p class="instruction">Press SPACE to reveal the answer</p>
+            <div id="question">What do we call the adjustable parameters that determine connection strength between neurons?</div>
+            <div id="answer" class="hidden">Weights</div>
+        </div>
+        <div class="reward" id="reward">
+            <h3>✓ Correct!</h3>
+            <p>This is the fundamental building block of all modern AI.</p>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button id="prevBtn" onclick="previousConcept()" disabled>← Previous</button>
+        <button id="nextBtn" onclick="nextConcept()">Next →</button>
+    </div>
+
+    <div class="footer">
+        Use LEFT/RIGHT arrows or click buttons to navigate<br>
+        Press SPACE to reveal answer during knowledge check<br>
+        Suggested pace: ~2 minutes per concept (40 minutes total)
+    </div>
+
+    <script>
+        // All 20 concepts from the thread
+        const concepts = [
+            {
+                num: 1,
+                title: "Neural Networks",
+                explanation: "A pipeline of layers (input → hidden → output) where each connection has a trainable weight. Adjusting billions of weights makes the network accurate.",
+                visual: "Like specialists on an assembly line - each layer processes and passes information to the next.",
+                question: "What do we call the adjustable parameters that determine connection strength between neurons?",
+                answer: "Weights"
+            },
+            {
+                num: 2,
+                title: "Tokenization",
+                explanation: "Text is split into tokens (not always whole words) to handle new words, typos, and mixed languages without enormous vocabularies.",
+                visual: "Like breaking a sentence into Lego blocks - 'playing' → 'play' + 'ing', 'ChatGPT' → 'Chat' + 'G' + 'PT'.",
+                question: "What is the process of splitting text into smaller units called tokens?",
+                answer: "Tokenization"
+            },
+            {
+                num: 3,
+                title: "Embeddings",
+                explanation: "Each token becomes a vector (embedding) that encodes meaning - similar words have similar vectors.",
+                visual: "Think of it as Google Maps for words: 'Doctor' & 'Nurse' are close, 'Doctor' & 'Pizza' are far.",
+                question: "What converts tokens into numerical vectors that capture semantic meaning?",
+                answer: "Embeddings"
+            },
+            {
+                num: 4,
+                title: "Attention",
+                explanation: "Lets every word look at every other word to decide what matters - crucial for understanding context.",
+                visual: "In 'She bought shares in Apple', 'Apple' attends to 'shares' and 'bought' to mean company, not fruit.",
+                question: "What mechanism allows words to weigh the importance of other words in a sentence?",
+                answer: "Attention"
+            },
+            {
+                num: 5,
+                title: "Transformers",
+                explanation: "Architecture using stacked attention layers (Text → Tokens → Embeddings → Attention → Output). Powers nearly all modern AI models.",
+                visual: "Like a team where early layers handle grammar, middle layers handle relationships, deep layers handle reasoning.",
+                question: "What architecture uses attention layers and powers models like GPT, Claude, and Gemini?",
+                answer: "Transformers"
+            },
+            {
+                num: 6,
+                title: "Large Language Models (LLMs)",
+                explanation: "Transformers trained on massive text (trillions of tokens) to predict the next token, showing emergent abilities.",
+                visual: "Like a student who's read everything in the library and can now write, reason, and code without explicit training.",
+                question: "What are transformer models trained on massive text datasets called?",
+                answer: "Large Language Models (LLMs)"
+            },
+            {
+                num: 7,
+                title: "Context Window",
+                explanation: "Maximum tokens the model can see at once (your message + response + history). Bigger window = more context but 'lost in middle' problem.",
+                visual: "Like having a conversation where you can only remember the last few sentences - the beginning and end stick best.",
+                question: "What is the maximum number of tokens a model can process at once called?",
+                answer: "Context Window"
+            },
+            {
+                num: 8,
+                title: "Temperature",
+                explanation: "Controls randomness in token selection: Temp=0 (predictable), Temp=1 (creative), Temp≥2 (wild/incoherent).",
+                visual: "Like a creativity dial - low for facts/code, high for brainstorming/stories.",
+                question: "What parameter controls the randomness of AI's word choices?",
+                answer: "Temperature"
+            },
+            {
+                num: 9,
+                title: "Hallucination",
+                explanation: "AI states falsehoods confidently because it only predicts next token - never verifies truth. Fix: verify with RAG.",
+                visual: "Like a confident storyteller who makes up details but believes them completely.",
+                question: "What is it called when AI confidently states false information?",
+                answer: "Hallucination"
+            },
+            {
+                num: 10,
+                title: "Prompt Engineering",
+                explanation: "The way you ask dramatically changes the answer. Be specific, give context, assign role, show examples.",
+                visual: "Like giving precise directions to a genius assistant - vague requests get vague answers.",
+                question: "What is the practice of crafting effective inputs to steer AI responses?",
+                answer: "Prompt Engineering"
+            },
+            {
+                num: 11,
+                title: "Transfer Learning",
+                explanation: "Take a pretrained model and adapt it for a specific use case - saves massive compute and time.",
+                visual: "Like knowing how to ride a bike making it much faster to learn a motorcycle.",
+                question: "What is adapting a pretrained model to a new task called?",
+                answer: "Transfer Learning"
+            },
+            {
+                num: 12,
+                title: "Fine-Tuning",
+                explanation: "Continue training a pretrained model on a small, focused dataset to teach it a specific domain.",
+                visual: "Like taking a general practitioner and giving them extra training to become a specialist.",
+                question: "What is training a pretrained model on a small dataset for a specific domain?",
+                answer: "Fine-Tuning"
+            },
+            {
+                num: 13,
+                title: "Quantization",
+                explanation: "Shrink model size by lowering weight precision (e.g., 32-bit float → 8-bit int) to fit on consumer hardware.",
+                visual: "Like compressing a high-res photo to fit on your phone - smaller size, slight quality loss.",
+                question: "What technique reduces model size by decreasing numerical precision?",
+                answer: "Quantization"
+            },
+            {
+                num: 14,
+                title: "LoRA (Low-Rank Adaptation)",
+                explanation: "Freeze the pretrained model; train only small low-rank matrices to inject domain knowledge efficiently.",
+                visual: "Like adding a custom vinyl wrap to a car instead of repainting the entire vehicle.",
+                question: "What technique trains only small matrices to adapt large models?",
+                answer: "LoRA (Low-Rank Adaptation)"
+            },
+            {
+                num: 15,
+                title: "RLHF (Reinforcement Learning from Human Feedback)",
+                explanation: "Train a reward model on human preferences, then use RL to optimize the policy for helpful/harmless outputs.",
+                visual: "Like teaching a dog with treats - reward good behavior, ignore bad.",
+                question: "What method uses human feedback to align AI with desired behavior?",
+                answer: "RLHF (Reinforcement Learning from Human Feedback)"
+            },
+            {
+                num: 16,
+                title: "RAG (Retrieval-Augmented Generation)",
+                explanation: "Fetch relevant documents from a knowledge base, then feed them to the LLM as context to ground responses.",
+                visual: "Like giving an open-book exam - the AI looks up facts before answering to reduce hallucination.",
+                question: "What technique combines retrieval with generation to ground AI in facts?",
+                answer: "RAG (Retrieval-Augmented Generation)"
+            },
+            {
+                num: 17,
+                title: "Speculative Decoding",
+                explanation: "Use a small, fast 'draft' model to propose tokens, then verify with big model in parallel to cut latency.",
+                visual: "Like having a junior assistant make quick suggestions that a senior expert then approves or corrects.",
+                question: "What technique uses a small model to draft tokens for faster generation?",
+                answer: "Speculative Decoding"
+            },
+            {
+                num: 18,
+                title: "Mixture-of-Experts (MoE)",
+                explanation: "Instead of one network, have many expert sub-networks; route each token to top-k experts for efficiency.",
+                visual: "Like a hospital where each patient goes to the relevant specialist rather than seeing one general doctor.",
+                question: "What architecture uses specialized sub-networks routed by token?",
+                answer: "Mixture-of-Experts (MoE)"
+            },
+            {
+                num: 19,
+                title: "KV Caching",
+                explanation: "Store key and value vectors from previous tokens to avoid recomputing attention during generation.",
+                visual: "Like saving your work as you go so you don't have to redo calculations from scratch each time.",
+                question: "What stores past key/value vectors to speed up autoregressive generation?",
+                answer: "KV Caching"
+            },
+            {
+                num: 20,
+                title: "Model Merging",
+                explanation: "Combine multiple fine-tuned models into one without additional training to deploy multi-task models.",
+                visual: "Like creating a Swiss Army knife tool that does many jobs instead of carrying separate tools.",
+                question: "What combines multiple fine-tuned models into one?",
+                answer: "Model Merging"
+            }
+        ];
+
+        let currentIndex = 0;
+
+        function loadConcept(index) {
+            if (index < 0 || index >= concepts.length) return;
+            
+            const concept = concepts[index];
+            document.getElementById('conceptNum').textContent = concept.num;
+            document.getElementById('conceptTitle').textContent = concept.title;
+            document.getElementById('conceptExplanation').textContent = concept.explanation;
+            document.getElementById('visualAnalogy').textContent = concept.visual;
+            document.getElementById('question').textContent = concept.question;
+            document.getElementById('answer').textContent = concept.answer;
+            
+            // Hide answer and reward initially
+            document.getElementById('answer').classList.add('hidden');
+            document.getElementById('reward').style.display = 'none';
+            
+            // Update progress
+            document.getElementById('progress').textContent = `Concept ${concept.num} of 20`;
+            
+            // Update button states
+            document.getElementById('prevBtn').disabled = (index === 0);
+            document.getElementById('nextBtn').disabled = (index === concepts.length - 1);
+        }
+
+        function nextConcept() {
+            if (currentIndex < concepts.length - 1) {
+                currentIndex++;
+                loadConcept(currentIndex);
+            }
+        }
+
+        function previousConcept() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                loadConcept(currentIndex);
+            }
+        }
+
+        // Keyboard controls
+        document.addEventListener('keydown', function(e) {
+            if (e.code === 'ArrowRight') {
+                nextConcept();
+            } else if (e.code === 'ArrowLeft') {
+                previousConcept();
+            } else if (e.code === 'Space') {
+                e.preventDefault(); // prevent scrolling
+                const answerDiv = document.getElementById('answer');
+                answerDiv.classList.remove('hidden');
+                const rewardDiv = document.getElementById('reward');
+                rewardDiv.style.display = 'block';
+            }
+        });
+
+        // Load first concept
+        loadConcept(0);
+    </script>
+</body>
+</html>
