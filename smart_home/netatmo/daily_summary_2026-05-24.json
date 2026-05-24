@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2026-05-24T04:02:22.947847+00:00",
+    "time": "04:02:22",
+    "readings": {
+      "Weather_Station_Byt_temperature_c": 23.9,
+      "Weather_Station_Byt_humidity_percent": 52,
+      "Weather_Station_Byt_pressure_hpa": 1026.6,
+      "Weather_Station_Byt_co2_ppm": 790,
+      "Weather_Station_Byt_noise_db": 32,
+      "Weather_Station_Byt_last_updated_utc": 1779595124,
+      "Outdoor_Module_Byt_temperature_c": 15.8,
+      "Outdoor_Module_Byt_humidity_percent": 73,
+      "Outdoor_Module_Byt_last_updated_utc": 1779595081,
+      "Smart_Indoor_Module_Loznice_temperature_c": 22.9,
+      "Smart_Indoor_Module_Loznice_humidity_percent": 55,
+      "Smart_Indoor_Module_Loznice_co2_ppm": 1073,
+      "Smart_Indoor_Module_Loznice_last_updated_utc": 1779595113
+    }
+  }
+]
