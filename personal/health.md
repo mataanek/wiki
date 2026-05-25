@@ -45,3 +45,21 @@ Weekly data:
 Year-Week | Avg Resting HR (bpm) | High-Intense Runs
 ----------|----------------------|------------------
 2026-21 | 55.0 | 2
+
+## 2026-05-24
+
+### Health Metrics
+- Steps: 11668.188935722677
+- Resting HR: 59 bpm
+- Weight: N/A kg
+- HRV: N/A ms
+- Sleep: N/A
+- VO2Max: N/A ml/kg/min
+- Active Energy: 856 kcal
+- Basal Energy: 1658 kcal
+- Exercise Minutes: N/A min
+
+### Workouts
+1. Walking: 42m, 3.18km, 180 kcal active, 67 kcal basal
+
+---
